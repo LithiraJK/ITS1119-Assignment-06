@@ -116,7 +116,7 @@ img[alt="wallpaper"] {
     border-radius: 10px;
     gap: 15px;
     width: 100%;
-    max-width: 400px; /* Prevents it from getting too wide */
+    max-width: 400px;
     z-index: 1;
   }
   
